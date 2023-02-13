@@ -2,3 +2,8 @@ Name: Realme
 Version:12.4
 Ram:32Gb
 phone:8309398418
+
+
+
+
+version:14.0
