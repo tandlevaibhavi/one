@@ -1,0 +1,3 @@
+Name: Realme
+Version:12.4
+Ram:32Gb
